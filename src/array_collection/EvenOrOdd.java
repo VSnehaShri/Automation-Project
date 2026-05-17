@@ -17,11 +17,11 @@ public class EvenOrOdd {
         }
 
         System.out.println("Count of Even Numbers: " + evenCount);
-        System.out.println("Count of Odd Numbers: " + oddCount);
+        
 		}
 
 
-
+	
 
 
 	}
